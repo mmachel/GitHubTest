@@ -21,3 +21,5 @@ translation: Deutsch  translations/German.md
 translation: Français translations/French.md
 -->
 # Computer Programming for beginners
+
+I will present you the basic concepts of computer programming for those who do not have any idea of programming
