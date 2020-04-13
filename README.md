@@ -28,3 +28,4 @@ git push -u origin master
 git push -u origin GetStarted
 git push origin --delete GetStarted
 git merge branchname
+Before merging, first is going to the branch where it necessary to merge informations 
