@@ -14,7 +14,7 @@ import: https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.m
 
 import: https://raw.githubusercontent.com/liaTemplates/rextester/master/README.md
 -->
-# Some Git commands
+# Important git commands
 
 I will present you the basic concepts of computer programming for those who do not have any idea of programming
 
