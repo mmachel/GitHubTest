@@ -23,3 +23,6 @@ translation: Français translations/French.md
 # Computer Programming for beginners
 
 I will present you the basic concepts of computer programming for those who do not have any idea of programming
+
+git push -u origin master
+git push -u origin GetStarted
