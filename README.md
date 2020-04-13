@@ -9,16 +9,10 @@ language: en
 
 narrator: US English Female
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
-
-link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
-
-script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-
-translation: Deutsch  translations/German.md
-
 translation: Français translations/French.md
+import: https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.md
+
+import: https://raw.githubusercontent.com/liaTemplates/rextester/master/README.md
 -->
 # Computer Programming for beginners
 
