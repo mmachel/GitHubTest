@@ -14,4 +14,8 @@ namespace Operations
   {
     return x + y;
   }
+  public static double Mult(double x, double y)
+  {
+    return x*y;
+  }
 }
