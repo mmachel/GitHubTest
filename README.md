@@ -33,3 +33,5 @@ I will present you the basic concepts of computer programming for those who do n
 + _git branch -d branchname_ -->to delete branch from local repository
 
 + _git merge branchname_ --> Before merging, first is going to the branch where it necessary to merge informations
+
+And others
