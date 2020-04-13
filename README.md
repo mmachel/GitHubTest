@@ -24,8 +24,12 @@ translation: Français translations/French.md
 
 I will present you the basic concepts of computer programming for those who do not have any idea of programming
 
-git push -u origin master
-git push -u origin GetStarted
-git push origin --delete GetStarted
-git merge branchname
-Before merging, first is going to the branch where it necessary to merge informations 
++ _git push_ -u origin master
+
++ _git push -u origin GetStarted_
+
++ _git push origin --delete GetStarted_ --> to delete branch from remote repository
+
++ _git branch -d branchname_ -->to delete branch from local repository
+
++ _git merge branchname_ --> Before merging, first is going to the branch where it necessary to merge informations
