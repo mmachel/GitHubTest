@@ -26,3 +26,5 @@ I will present you the basic concepts of computer programming for those who do n
 
 git push -u origin master
 git push -u origin GetStarted
+git push origin --delete GetStarted
+git merge branchname
