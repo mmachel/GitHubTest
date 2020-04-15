@@ -16,7 +16,11 @@ namespace Operations
   }
   public static double Mult(double x, double y)
   {
-    return x*y;
+    return x * y;
+  }
+  public static double Division(double x, double y)
+  {
+    return x / y;
   }
   public static void printInfo(double result)
   {

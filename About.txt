@@ -1,0 +1,2 @@
+I will try to write some programs to solve simple math problems.
+With time I will start to develop big programs with more than 100 lines.
