@@ -23,7 +23,7 @@ import: https://raw.githubusercontent.com/liaTemplates/rextester/master/README.m
 
 To GitHub click [here](https://github.com/mmachel/Basics/blob/master/Program.md)
 
-To LiaScript click [here](https://liascript.io/course/?https://raw.githubusercontent.com/mmachel/Basics/master/Program.md#1)
+To LiaScript click [here](https://liascript.io/course/?https://raw.githubusercontent.com/mmachel/GitHubTest/master/Program.md#1)
 
 ## Hello World
 
