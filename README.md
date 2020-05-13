@@ -38,6 +38,8 @@ I will present you the basic concepts of computer programming for those who do n
 
 + _git remote add origin url_ --> to remote the repository and push it to online server and then just using _git push origin branchname_.
 
-+ _git clone url_--> to clone one online repository to the local computer. **cd** .. --> to change director in command prompt.
++ _git clone url_--> to clone one online repository to the local computer.
 
-And others
+**cd** .. --> to change director in command prompt. (This is not git command)
+
+And more others

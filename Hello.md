@@ -27,7 +27,7 @@ To LiaScript click [here](https://liascript.io/course/?https://raw.githubusercon
 
 ## Hello World
 
-Let us look at the simple HelloWorld program and see how it has been written and compiled and it the libraries.
+Let us look at the simple HelloWorld program in C# and see how it has been written and compiled and it the libraries.
 
 ```csharp   HelloWorld.cs
 using System;
