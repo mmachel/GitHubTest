@@ -21,7 +21,7 @@ import: https://raw.githubusercontent.com/liaTemplates/rextester/master/README.m
 
 # C# Programs
 
-To GitHub click [here](https://github.com/mmachel/Basics/blob/master/Program.md)
+To GitHub click [here](https://github.com/mmachel/GitHubTest/blob/master/Program.md)
 
 To LiaScript click [here](https://liascript.io/course/?https://raw.githubusercontent.com/mmachel/GitHubTest/master/Program.md#1)
 
