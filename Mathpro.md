@@ -252,9 +252,7 @@ _I think now we have basic idea about computer programming together with mathema
 
 1. programming in C#
 2. Latex tools
-3. English writing, speaking, reading and listening.
-4. Applied mathematical with the same basics I have now and others.
-5. Solve mathematical problems using programming
+3. Learn English language
 
 ## Others
 
