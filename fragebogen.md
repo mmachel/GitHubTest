@@ -1,3 +1,4 @@
+```c#
 //Frage 1
 class MayaKalender
 {
@@ -69,3 +70,4 @@ class Scrollview: View
 //von der Klasse View 
 //b
 var views = new View[5];
+```
